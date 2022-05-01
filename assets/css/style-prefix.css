@@ -76,7 +76,14 @@
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  border: 0.0rem solid #848484;
+  font-family: "calibri", Garamond, 'Comic Sans';
+}
 *, *::before, *::after {
   margin: 0;
   padding: 0;
