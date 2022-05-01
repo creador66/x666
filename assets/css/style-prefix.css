@@ -14,6 +14,15 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  border: 0.0rem solid #848484;
+  font-family: "calibri", Garamond, 'Comic Sans';
+}
+
 :root {
 
   /**
@@ -69,20 +78,6 @@
 
 }
 
-
-
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-
-/*-----------------------------------*\
-  #RESET
-\*-----------------------------------*/
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  border: 0.0rem solid #848484;
-  font-family: "calibri", Garamond, 'Comic Sans';
-}
 
 a { text-decoration: none; }
 
