@@ -1,0 +1,98 @@
+[
+  {
+    "id2": "1660834765263",
+    "codi": "tarjeta",
+    "producto": "SUPREME OREGON",
+    "descripcion": "tarjeta con efecto hover que jira en 3d al momento de precionar",
+    "precio": 200,
+    "algo": "400",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1660834817399",
+    "codi": "tarjeta",
+    "producto": "Camisa lacis",
+    "descripcion": "Camisa blanca de caballero ",
+    "precio": "409",
+    "algo": "40",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1660834858598",
+    "codi": "tarjeta",
+    "producto": "Pantalón para caballero negro",
+    "descripcion": "Nueva marca tendencia ",
+    "precio": "630",
+    "algo": "10",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1660834929719",
+    "codi": "otro",
+    "producto": "Falda para dama",
+    "descripcion": "Marca lasis mujer ",
+    "precio": "520",
+    "algo": "10",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1660834986806",
+    "codi": "otro",
+    "producto": "Falda negra lasis",
+    "descripcion": "Producto de moda y tendencia ",
+    "precio": "720",
+    "algo": "200",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1661146798027",
+    "codi": "otro",
+    "producto": "Camisa de damas blanca",
+    "descripcion": "Bien producto de sapatos",
+    "precio": "500",
+    "algo": "400",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1661146844065",
+    "codi": "otro",
+    "producto": "Pantalón para caballero blanco",
+    "descripcion": "Nuevo pantalon",
+    "precio": "1200",
+    "algo": "2222",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
+  {
+    "id2": "1661169113430",
+    "codi": "otro",
+    "producto": "Camisa de damas blanca",
+    "descripcion": "nuevo camisa polo",
+    "precio": "300",
+    "algo": "500",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  }
+]
