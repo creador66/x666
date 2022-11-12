@@ -23,6 +23,18 @@
     "catego3": "CSS",
     "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
   },
+    {
+    "id2": "16608399",
+    "codi": "tarjeta2",
+    "producto": "pollo",
+    "descripcion": "Camisa blanca de caballero ",
+    "precio": "409",
+    "algo": "40",
+    "catego1": "HTML",
+    "catego2": "jvascript",
+    "catego3": "CSS",
+    "imagen": "https://juansguzman.com/wp-content/uploads/2020/10/Sheets-Scripts.jpg"
+  },
   {
     "id2": "1660834858598",
     "codi": "tarjeta",
